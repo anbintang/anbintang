@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning about anything that i can learn
 - 💞️ I’m looking to collaborate on any platform
-- 📫 How to reach me on my social medias
+
 
 <!---
 anbintang/anbintang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
