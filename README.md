@@ -31,7 +31,7 @@ I focus on shipping maintainable features, improving performance, and collaborat
 
 ---
 
-## Project(s)
+## Projects
 
 ### 1. **3D Web Developer Portfolio (In Progress)**  
 A modern, interactive **3D web portfolio** designed to showcase projects, skills, and professional experience through motion and storytelling.  
