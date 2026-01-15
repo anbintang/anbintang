@@ -7,7 +7,7 @@ I focus on shipping maintainable features, improving performance, and collaborat
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**
 - JavaScript (ES6+), SPA Architecture
@@ -50,7 +50,7 @@ This project explores combining traditional UI with real-time 3D graphics and sm
 This project helped me grow beyond conventional SPA development and think more holistically about **interaction, motion, and performance** in modern web experiences.
 
 **Tech Stack:** React, Vite, Three.js, GSAP, JavaScript (ES6+), HTML, CSS  
-**Status:** 🚧 In Progress
+**Status:** In Progress
 
 ### 2. Amdalnet (Ministry of Environment of Indonesia)
 AMDALNet is a **national-scale environmental approval platform** used to manage and process environmental feasibility documents across Indonesia.  
