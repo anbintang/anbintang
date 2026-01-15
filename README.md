@@ -1,6 +1,6 @@
 # Hello! I'm Anugrah Bintang Pria Sembada 👋
 
-Junior Full-Stack Developer with **1+ year of production experience** building SPA-based web applications using **JavaScript, Laravel, and Vue.js**.  
+A Full-Stack Developer with **1+ year of production experience** building SPA-based web applications using **JavaScript, Laravel, and Vue.js**.  
 Comfortable operating in real-world systems with real users, real constraints, and real deadlines.
 
 I focus on shipping maintainable features, improving performance, and collaborating effectively within cross-functional engineering teams.
