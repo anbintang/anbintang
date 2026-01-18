@@ -49,7 +49,7 @@ This project explores combining traditional UI with real-time 3D graphics and sm
 
 This project helped me grow beyond conventional SPA development and think more holistically about **interaction, motion, and performance** in modern web experiences.
 
-**Tech Stack:** React, Vite, Three.js, GSAP, JavaScript (ES6+), HTML, CSS  
+**Tech Stack:** Three.js, React Three Fiber, Drei, GSAP, Tailwind CSS, Vite, React 19  
 **Status:** In Progress
 
 ### 2. Amdalnet (Ministry of Environment of Indonesia)
